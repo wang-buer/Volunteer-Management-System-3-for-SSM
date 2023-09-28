@@ -68,3 +68,8 @@
 ### 4.5 文档目录
 
 ![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309281620733.jpg)
+## 获取方式
+
+关注公众号： **程序员王不二**，回复关键词  ：**志愿** ，获取完整版源码
+
+![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
